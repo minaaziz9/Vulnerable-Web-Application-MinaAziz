@@ -40,7 +40,3 @@ Each vulnerability has its own dedicated Markdown file under `/vulns`.
 Refer to `/vulns/` for full code snippets and remediation guidance.
 
 ---
-
-# 📝 Example Structure of Each Vulnerability File
-
-Each file contains:
