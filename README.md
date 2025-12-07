@@ -15,8 +15,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Vulnerabilities](#vulnerabilities)
-- [Quick Start](#quick-start)
-- [Deployment](#deployment)
 - [Vulnerability Details & Remediations](#vulnerability-details--remediations)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
@@ -71,18 +69,6 @@ This application contains **7 intentional security vulnerabilities**:
 | 7 | **Command Injection** | 🔴 Critical | `/ping` | ✅ Active |
 
 ---
-
-
-### Sample Users
-
-The database is pre-populated with these users:
-
-- **ID 1:** `admin` / `supersecret`
-- **ID 2:** `mina` / `password123`
-- **ID 3:** `guest` / `guest`
-
-
-```
 
 **Live Demo:** [https://hackminaaziz.fly.dev/](https://hackminaaziz.fly.dev/)
 
