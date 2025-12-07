@@ -72,32 +72,6 @@ This application contains **7 intentional security vulnerabilities**:
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.13+
-- pip (Python package manager)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/minaaziz9/Vulnerable-Web-Application-MinaAziz.git
-cd Vulnerable-Web-Application-MinaAziz
-
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python3 app.py
-```
-
-The application will be available at `http://localhost:8000`
 
 ### Sample Users
 
@@ -107,22 +81,7 @@ The database is pre-populated with these users:
 - **ID 2:** `mina` / `password123`
 - **ID 3:** `guest` / `guest`
 
----
 
-## 🌐 Deployment
-
-### Deploy to fly.io
-
-```bash
-# Install flyctl
-brew install flyctl  # macOS
-# Or download from: https://fly.io/docs/getting-started/installing-flyctl/
-
-# Login
-flyctl auth login
-
-# Deploy
-flyctl deploy
 ```
 
 **Live Demo:** [https://hackminaaziz.fly.dev/](https://hackminaaziz.fly.dev/)
