@@ -26,7 +26,7 @@
 
 ## 🎯 Overview
 
-**hackminaaziz.com** is a deliberately vulnerable Flask web application designed to help security professionals, developers, and students understand common web application vulnerabilities through hands-on practice.
+**hackminaaziz.fly.dev** is a deliberately vulnerable Flask web application designed to help security professionals, developers, and students understand common web application vulnerabilities through hands-on practice.
 
 This project demonstrates real-world security issues in a controlled, educational environment, making it perfect for:
 - Security training workshops
@@ -83,8 +83,8 @@ This application contains **7 intentional security vulnerabilities**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hackminaaziz.git
-cd hackminaaziz
+git clone https://github.com/minaaziz9/Vulnerable-Web-Application-MinaAziz.git
+cd Vulnerable-Web-Application-MinaAziz
 
 # Create virtual environment
 python3 -m venv venv
@@ -829,8 +829,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mina Aziz**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [hackminaaziz.com](https://hackminaaziz.fly.dev/)
+- GitHub: [@minaaziz9](https://github.com/minaaziz9)
+- Website: [hackminaaziz.fly.dev](https://hackminaaziz.fly.dev)
+- Repository: [Vulnerable-Web-Application-MinaAziz](https://github.com/minaaziz9/Vulnerable-Web-Application-MinaAziz)
 
 ---
 
